@@ -1,5 +1,17 @@
 Joost's custom Slic3r settings for his Prusa i3 mk2s. ( ~/..Slic3r )
 
+# Hatchbox PLA 1.75mm
+
++ first layer temperature: 200
++ first layer printing bed temperature: 60
++ subsequent layers temperature: 190 
++ subsequent layers printing bed temperature: 55
++ printing bed: clean PEI (clean with acetone for increased adhesion)
++ print without enclosure
++ fan speed: 55%
++ bridge fan speed: 100%
++ white oozes badly, consider 190 for both first and subsequent layers
+
 # rigid.ink ASA 1.75mm
 
 + first layer temperature: 235
