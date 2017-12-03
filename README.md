@@ -1,4 +1,4 @@
-Joost's custom Slic3r settings for his Prusa i3 mk2s. ( ~/..Slic3r )
+Longman's fork of Joost's custom Slic3r settings for Prusa i3 mk2s. ( ~/..Slic3r )
 
 # Hatchbox PLA 1.75mm
 
